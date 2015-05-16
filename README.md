@@ -1,5 +1,6 @@
-Github-for-Teaching
-===================
+# Using Github for Teaching
+
+I began teaching programming professionally at [Valencia College](http://valenciacollege.edu] in Fall of 2012. My first class was [DIG 1108: Intro to Server-Side Programming with PHP](https://github.com/Valencia-Digital-Media/vcc-dig1108-fall2012.github.com), a course that [Rob McCaffrey](https://www.linkedin.com/pub/robert-mccaffrey/8/522/b48), [Carlos Souza](https://www.linkedin.com/in/caike) and I had envisioned a year before
 
 Processes and methodologies for using Github in a Teaching environment.
 
