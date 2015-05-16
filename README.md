@@ -1,6 +1,10 @@
 # Using Github for Teaching
 
-I began teaching programming professionally at [Valencia College](http://valenciacollege.edu] in Fall of 2012. My first class was [DIG 1108: Intro to Server-Side Programming with PHP](https://github.com/Valencia-Digital-Media/vcc-dig1108-fall2012.github.com), a course that [Rob McCaffrey](https://www.linkedin.com/pub/robert-mccaffrey/8/522/b48), [Carlos Souza](https://www.linkedin.com/in/caike) and I had envisioned a year before
+I began teaching programming professionally at [Valencia College](http://valenciacollege.edu] in Fall of 2012. My first class was [DIG 1108: Intro to Server-Side Programming with PHP](https://github.com/Valencia-Digital-Media/vcc-dig1108-fall2012.github.com), a course that [Rob McCaffrey](https://www.linkedin.com/pub/robert-mccaffrey/8/522/b48), [Carlos Souza](https://www.linkedin.com/in/caike) and I had envisioned a year before in a set of planning sessions to create a new Web Development curriculum for the college.
+
+One of the foundations of the curriculum we outlined was a reliance on real-world tools and languages while teaching programming and application development with the goal of truly preparing students for the workplace inside of a two-year (6 semester) program. First and foremost, we believed in using Source Control, specifically Github, throughout the program. In that first class, [the others that followed](https://j.mp/vcc-dig-1108) and again in [DIG 1102: Intro to Client-Side Programming with JavaScript](http://j.mp/vcc-dig-1102), which I graciously had the opportunity to teach, I started developing a methodology of using Github to deliver, accept, and grade assignments.
+
+In 2014, when I began teaching [Front-End Development at The Iron Yard](...), I took that methodology to the next level. My classes...
 
 Processes and methodologies for using Github in a Teaching environment.
 
