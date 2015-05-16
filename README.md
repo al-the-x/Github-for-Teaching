@@ -4,7 +4,7 @@ I began teaching programming professionally at [Valencia College](http://valenci
 
 One of the foundations of the curriculum we outlined was a reliance on real-world tools and languages while teaching programming and application development with the goal of truly preparing students for the workplace inside of a two-year (6 semester) program. First and foremost, we believed in using Source Control, specifically Github, throughout the program. In that first class, [the others that followed](https://j.mp/vcc-dig-1108) and again in [DIG 1102: Intro to Client-Side Programming with JavaScript](http://j.mp/vcc-dig-1102), which I graciously had the opportunity to teach, I started developing a methodology of using Github to deliver, accept, and grade assignments.
 
-In 2014, when I began teaching [Front-End Development at The Iron Yard](...), I took that methodology to the next level. My classes...
+In 2014, when I began teaching [Front-End Development at The Iron Yard](http://theironyard.com/courses/front-end-engineering/), I took that methodology to the next level. The classes I was teaching there condensed _multiple semesters of coursework_ at traditional community college pacing -- one or two days per week for 16 to 18 weeks per semester -- into a 12-week, Monday through Friday, 60+ hour-per-week immersive program. Not only was I covering more material in a shorter amount of time, but my students would be producing work at an exponentially faster rate. Whereas I had 1 assignment per student per week at Valencia, I had 1 assignment per student _per day_ comprised of multiple objectives...
 
 Processes and methodologies for using Github in a Teaching environment.
 
